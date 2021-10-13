@@ -19,3 +19,5 @@ For example,
     git status is read as git | status | (no destination).
 
 https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/git-basics
+
+https://devdocs.io/

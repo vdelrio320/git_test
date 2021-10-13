@@ -18,3 +18,4 @@ For example,
     git commit -m "message" is read as git | commit -m | "message"; and
     git status is read as git | status | (no destination).
 
+https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/git-basics
